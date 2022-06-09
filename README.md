@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="35" width="35"> , I'm Iftekhar</h1>
 <h3 align="center">🎓 I'm currently pursuing my Bachelors in Computer Science & Engineering.</h3>
 
-- 🌱 I’m currently learning **React <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20"/>**
+- 🌱 I’m currently learning **NextJS <img src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="nextjs" width="20" height="20"/>**
 
 
 - 📫 How to reach me **iftekharifat007@gmail.com**
