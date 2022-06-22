@@ -17,7 +17,8 @@
     alt="nextjs"
     width="20"
     height="20"
-/>** - 📫 How to reach me **iftekharifat007@gmail.com**
+/>
+- 📫 How to reach me **iftekharifat007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
