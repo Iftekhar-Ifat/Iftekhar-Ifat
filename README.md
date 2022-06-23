@@ -121,6 +121,22 @@
             height="40"
         />
     </a>
+    <a href="https://nodejs.org/en/" target="_blank">
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://expressjs.com/" target="_blank">
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+            alt="expressjs"
+            width="40"
+            height="40"
+        />
+    </a>
 </p>
 
 <h3 align="left">Database:</h3>
