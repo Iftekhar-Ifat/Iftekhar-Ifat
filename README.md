@@ -11,7 +11,7 @@
     🎓 I'm currently pursuing my Bachelors in Computer Science & Engineering.
 </h3>
 
-- 🌱 I’m currently learning **NextJS
+- 🌱 I’m currently learning **NextJS**
 <img
     src="https://nextjs.org/static/favicon/favicon-32x32.png"
     alt="nextjs"
