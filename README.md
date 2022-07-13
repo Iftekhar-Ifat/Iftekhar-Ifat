@@ -225,16 +225,5 @@
 ![Iftekhar's github activity
 graph](https://activity-graph.herokuapp.com/graph?username=Iftekhar-Ifat&bg_color=0d1117&color=ffffff&line=11ff00&point=ffffff&area=true&hide_border=true)
 
-<p style="display: flex;">
-    <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=iftekhar-ifat&layout=compact&langs_count=10&show_icons=true&theme=dark&locale=en"
-        alt="iftekhar-ifat"
-    />
-    <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=iftekhar-ifat&show_icons=true&theme=dark&locale=en"
-        alt="iftekhar-ifat"
-    />
-</p>
+![iftekhar-ifat](https://github-readme-stats.vercel.app/api/top-langs?username=iftekhar-ifat&layout=compact&langs_count=10&show_icons=true&theme=dark&locale=en) ![iftekhar-ifat](https://github-readme-stats.vercel.app/api?username=iftekhar-ifat&show_icons=true&theme=dark&locale=en)
 
