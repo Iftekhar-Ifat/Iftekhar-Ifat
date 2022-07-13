@@ -228,7 +228,7 @@ graph](https://activity-graph.herokuapp.com/graph?username=Iftekhar-Ifat&bg_colo
 <p>
     <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=iftekhar-ifat&show_icons=true&theme=dark&locale=en"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=iftekhar-ifat&layout=compact&langs_count=10&show_icons=true&theme=dark&locale=en"
         alt="iftekhar-ifat"
     />
 </p>
