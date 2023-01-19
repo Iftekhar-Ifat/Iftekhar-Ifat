@@ -11,33 +11,26 @@
     🎓 I'm currently pursuing my Bachelors in Computer Science & Engineering.
 </h3>
 
-- 🌱 I’m currently learning **NextJS**
-<img
-    src="https://nextjs.org/static/favicon/favicon-32x32.png"
-    alt="nextjs"
-    width="20"
-    height="20"
-/>
-- 📫 How to reach me **iftekharifat007@gmail.com**
+-   ✉ **iftekharifat007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/_ifte" target="blank"
-        ><img
+    <a href="https://www.linkedin.com/in/iftekhar-ifat/" target="blank">
+        <img 
+            align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+            alt="https://www.linkedin.com/in/iftekhar-ifat/" 
+            height="30" 
+            width="40"/>
+    </a> 
+    <a href="https://twitter.com/_ifte" target="blank">
+        <img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="_ifte"
             height="30"
             width="40"
-    /></a>
-    <a href="https://www.leetcode.com/iftekhar_07" target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="iftekhar_07"
-            height="30"
-            width="40"
-    /></a>
+    /></a> 
 </p>
 
 <h3 align="left">Programming Languages:</h3>
@@ -222,8 +215,6 @@
     </a>
 </p>
 
-![Iftekhar's github activity
-graph](https://activity-graph.herokuapp.com/graph?username=Iftekhar-Ifat&bg_color=0d1117&color=ffffff&line=11ff00&point=ffffff&area=true&hide_border=true)
+![iftekhar-ifat](https://github-readme-stats.vercel.app/api/top-langs?username=iftekhar-ifat&layout=compact&langs_count=10&show_icons=true&theme=dark&locale=en)
 
-![iftekhar-ifat](https://github-readme-stats.vercel.app/api/top-langs?username=iftekhar-ifat&layout=compact&langs_count=10&show_icons=true&theme=dark&locale=en) ![iftekhar-ifat](https://github-readme-stats.vercel.app/api?username=iftekhar-ifat&show_icons=true&theme=dark&locale=en)
-
+![iftekhar-ifat](https://github-readme-stats.vercel.app/api?username=iftekhar-ifat&show_icons=true&theme=dark&locale=en)
