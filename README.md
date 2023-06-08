@@ -178,6 +178,14 @@
             height="40"
         />
     </a>
+    <a href="https://www.tensorflow.org/" target="_blank">
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+            alt="tensorflow"
+            width="40"
+            height="40"
+        />
+    </a>
 </p>
 
 <h3 align="left">Tools:</h3>
